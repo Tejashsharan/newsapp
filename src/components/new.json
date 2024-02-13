@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 35,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Usnews.com"
+        },
+        "author": "U.S. News & World Report",
+        "title": "Namibia Interim President Says No Plan to Run in This Year's Election - U.S. News & World Report",
+        "description": null,
+        "url": "https://www.usnews.com/news/world/articles/2024-02-04/namibia-interim-president-says-no-plan-to-run-in-this-years-election",
+        "urlToImage": null,
+        "publishedAt": "2024-02-04T16:37:43Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Florida Today"
+        },
+        "author": "Rick Neale",
+        "title": "Will rain, wind scuttle NASA PACE spacecraft launch Tuesday morning? - Florida Today",
+        "description": "NASA crews are targeting 1:33 a.m. EST Tuesday to launch the PACE observatory atop a SpaceX Falcon 9 rocket from Launch Complex 40.",
+        "url": "https://www.floridatoday.com/story/tech/science/space/2024/02/03/will-rain-wind-scuttle-nasa-pace-spacecraft-launch-tuesday-morning-at-cape-canaveral-florida/72449585007/",
+        "urlToImage": "https://www.floridatoday.com/gcdn/presto/2020/02/05/PBRE/3d4c2618-f6eb-4edf-84d2-36f38d352a12-PACE.jpg?crop=1019,574,x4,y0&width=1019&height=574&format=pjpg&auto=webp",
+        "publishedAt": "2024-02-04T16:27:47Z",
+        "content": "Will windy, rainy environmental conditions scrub NASA's PACE environmental-science spacecraft launch attempt early Tuesday morning from Cape Canaveral Space Force Station?\r\nKeep a keen eye on the wea… [+1702 chars]"
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "By <a href=\"/profiles/andrew-raine\">Andrew Raine</a>, <a href=\"/profiles/heather-chen\">Heather Chen</a>, Amarachi Orie and Antoinette Radford, CNN",
+        "title": "US strikes Iran-backed groups as Israel-Hamas war rages: Live updates - CNN",
+        "description": "US national security adviser Jake Sullivan warned \"further action\" is coming after major US operations against Iran-linked groups in the Middle East. Follow for live updates.",
+        "url": "https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-02-04-24/index.html",
+        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/240201151428-03-gaza-unrwa-suspension-super-tease.jpeg",
+        "publishedAt": "2024-02-04T16:16:00Z",
+        "content": "The Iran-backed Houthi rebels say they \"will meet escalation with escalation\" after the US and UK struck at least 36 Houthi targets at several locations in Yemen on Saturday.\r\nThe strikes mark a seco… [+3277 chars]"
+      },
+      {
+        "source": {
+          "id": "the-washington-post",
+          "name": "The Washington Post"
+        },
+        "author": "Leo Sands",
+        "title": "Ayo Edebiri quizzes Nikki Haley on Civil War on ‘Saturday Night Live’ - The Washington Post",
+        "description": "In the “Saturday Night Live” cold open, host Ayo Edebiri asked Nikki Haley whether the Civil War’s main cause “starts with an ‘s’ and ends with a ‘-lavery.’”",
+        "url": "https://www.washingtonpost.com/style/2024/02/04/nikki-haley-saturday-night-live-ayo-edebiri/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/02-04-2024/t_7d12e24b1e954ba3ab6f2a9c2e47019a_name_STILL_snl.jpg&w=1440",
+        "publishedAt": "2024-02-04T16:13:50Z",
+        "content": "Republican presidential hopeful Nikki Haley made a surprise appearance on NBCs Saturday Night Live this weekend, starring as herself in the programs cold open.\r\nAhead of South Carolinas Feb. 24 Repub… [+2008 chars]"
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Marianne Garvey",
+        "title": "How to watch the 2024 Grammy Awards - CNN",
+        "description": "Music’s biggest night is set for Sunday at the 66th annual Grammy Awards.",
+        "url": "https://www.cnn.com/2024/02/04/entertainment/grammys-how-where-to-watch/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/180607165212-09-week-in-photos-0608-restricted.jpg?q=x_3,y_0,h_1435,w_2550,c_crop/w_800",
+        "publishedAt": "2024-02-04T16:11:00Z",
+        "content": "Musics biggest night is upon us.\r\nAt Sundays 66th annual Grammy Awards, nominees SZA and Taylor Swift are poised for significant wins, while the stage is set for some legendary performances. Tracy Ch… [+2880 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Www.cnn.co"
+        },
+        "author": "CNN",
+        "title": "Where to watch 2024's solar eclipse - CNN",
+        "description": "Enter your address to find out what you can expect to see in a city near you.",
+        "url": "https://www.cnn.co/interactive/2024/02/world/solar-eclipse-2024-map-dg-scn/",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240126131456-solar-eclipse-oregon-2017-file.jpg?c=original",
+        "publishedAt": "2024-02-04T16:04:22Z",
+        "content": "One of the years most anticipated celestial events a total solar eclipse will put on a dramatic show April 8 as it crosses over Mexico, the United States and Canada.\r\nA total solar eclipse occurs whe… [+1370 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CBS Sports"
+        },
+        "author": "",
+        "title": "Super Bowl LVIII: 58 things to know for Super Bowl 58 as Chiefs, 49ers in NFL championship game rematch - CBS Sports",
+        "description": "All the best facts and figures for Super Bowl Sunday",
+        "url": "https://www.cbssports.com/nfl/news/super-bowl-lviii-58-things-to-know-for-super-bowl-58-as-chiefs-49ers-in-nfl-championship-game-rematch/",
+        "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/01/31/6246a11f-35ed-4467-a94d-810131b68b3d/thumbnail/1200x675/b818aec1ac93a5742028c4f5d7eccb86/sb-49erschiefs-social-1280x720.jpg",
+        "publishedAt": "2024-02-04T14:54:00Z",
+        "content": "The 2023 NFL season has finally reached its ultimate showdown. Super Bowl LVIII is upon us, and two historic franchises are set to go head to head for the latest Lombardi Trophy. What better way to p… [+14784 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "TMZ"
+        },
+        "author": "TMZ Staff",
+        "title": "Clive Hosts Star-Studded Pre-Grammys Party With Meg, Mariah and Meryl - TMZ",
+        "description": "Clive Davis is reliable for sure ... it's Grammy night Sunday, and he threw his annual Pre-Grammy gala as promised Saturday night, and the stars showed up.",
+        "url": "https://www.tmz.com/2024/02/04/clive-hosts-annual-pre-grammys-party-beverly-hills/",
+        "urlToImage": "https://imagez.tmz.com/image/87/16by9/2024/02/04/877945b5272549b5974cca99480d5f40_xl.png",
+        "publishedAt": "2024-02-04T14:38:00Z",
+        "content": "Clive Davis is reliable for sure ... it's Grammy night Sunday, and he threw his annual Pre-Grammy gala as promised Saturday night, and the stars showed up.\r\nMegan Thee Stallion, Janelle Monáe, Paris … [+1039 chars]"
+      },
+      {
+        "source": {
+          "id": "abc-news",
+          "name": "ABC News"
+        },
+        "author": "Kenton Gewecke, Meredith Deliso",
+        "title": "California braces for life-threatening storm expected to bring flooding, mudslide threat - ABC News",
+        "description": "Flash flooding and mudslides are possible from San Francisco to Los Angeles.",
+        "url": "https://abcnews.go.com/US/california-braces-life-threatening-storm-expected-bring-flooding/story?id=106922484",
+        "urlToImage": "https://i.abcnewsfe.com/a/5c06ace3-b886-4056-a186-5c6ea7a4bfee/california-flooding-ap-jt-240203_1706978992488_hpMain_16x9.jpg?w=1600",
+        "publishedAt": "2024-02-04T13:33:52Z",
+        "content": "A powerful atmospheric river storm system is expected to bring life-threatening and damaging flooding, wind, snow and waves to California this weekend.\r\nFlood watches will be in effect starting Satur… [+3898 chars]"
+      },
+      {
+        "source": {
+          "id": "politico",
+          "name": "Politico"
+        },
+        "author": null,
+        "title": "South Dakota tribe bans governor from reservation over US-Mexico border remarks - POLITICO",
+        "description": "Star Comes Out accused Kristi Noem of trying to boost her chances of becoming Donald Trump's running mate.",
+        "url": "https://www.politico.com/news/2024/02/04/south-dakota-us-mexico-border-00139485",
+        "urlToImage": "https://static.politico.com/a2/c7/fb956df34557b66c4284cc031ea9/texas-border-south-dakota-guard-44447.jpg",
+        "publishedAt": "2024-02-04T13:21:16Z",
+        "content": "Many of those arriving at the U.S.-Mexico border are Indigenous people from places like El Salvador, Guatemala and Mexico who come in search of jobs and a better life, the tribal leader added.\r\nThey … [+1968 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNBC"
+        },
+        "author": "Amelia Lucas",
+        "title": "McDonald's is promising its 'Best Burger.' Now the chain will see if diners buy more of them - CNBC",
+        "description": "McDonald's restaurants in the U.S. are now serving improved versions of the chain's famous burgers, and the company hopes the move will unlock sales growth.",
+        "url": "https://www.cnbc.com/2024/02/04/mcdonalds-launches-best-burger-ahead-of-earnings-report.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107364366-1706188632556-gettyimages-1950965622-fd-trend-doublebigmac.jpeg?v=1706188700&w=1920&h=1080",
+        "publishedAt": "2024-02-04T13:00:01Z",
+        "content": "McDonald's has upgraded its burgers but it's unclear if its sales will get the same boost.\r\nThe fast-food giant has outperformed its rivals in recent quarters, helped by price hikes across its menu a… [+4532 chars]"
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "George Ramsay",
+        "title": "Wyndham Clark shoots course record 60 as he takes the lead at Pebble Beach Pro-Am - CNN",
+        "description": "American golfer Wyndham Clark shot a course-record 60 as he moved into the lead at the Pebble Beach Pro-Am after three rounds.",
+        "url": "https://www.cnn.com/2024/02/04/sport/wyndham-clark-pebble-beach-record-spt-intl/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1976107754.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2024-02-04T12:40:00Z",
+        "content": "American golfer Wyndham Clark shot a course-record 60 as he moved into the lead at the Pebble Beach Pro-Am after three rounds.\r\nClarks historic round at the famous links course in California included… [+1797 chars]"
+      },
+      {
+        "source": {
+          "id": "the-wall-street-journal",
+          "name": "The Wall Street Journal"
+        },
+        "author": "The Wall Street Journal",
+        "title": "Facebook Turns 20: From Mark Zuckerberg's Harvard Dorm Room to the Metaverse - The Wall Street Journal",
+        "description": null,
+        "url": "https://www.wsj.com/tech/facebook-turns-20-from-mark-zuckerbergs-harvard-dorm-room-to-the-metaverse-817a73da",
+        "urlToImage": null,
+        "publishedAt": "2024-02-04T12:00:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "fortune",
+          "name": "Fortune"
+        },
+        "author": "Paolo Confino",
+        "title": "Could AI create a one-person unicorn? Sam Altman thinks so—and Silicon Valley sees the technology ‘waiting for us’ - Fortune",
+        "description": "In September, Altman said his tech CEO friends' groupchat has a \"betting pool for the first year that there is a one-person billion dollar company.\"",
+        "url": "https://fortune.com/2024/02/04/sam-altman-one-person-unicorn-silicon-valley-founder-myth/",
+        "urlToImage": "https://content.fortune.com/wp-content/uploads/2024/02/GettyImages-1258019697-e1706907427321.jpg?resize=1200,600",
+        "publishedAt": "2024-02-04T12:00:00Z",
+        "content": "The AI revolution has already minted dozens of unicornsstartups valued at $1 billion before going public. Now it could create a whole new type of startup: the one-person unicorn.  The idea even got a… [+9287 chars]"
+      },
+      {
+        "source": {
+          "id": "fox-news",
+          "name": "Fox News"
+        },
+        "author": "Shannon Bream, Bill Mears",
+        "title": "Supreme Court prepares hearing on Trump removal from Colorado ballot - Fox News",
+        "description": "The U.S. Supreme Court is preparing for oral arguments on whether former President Donald Trump should be removed from Colorado's ballot ahead of the 2024 presidential election.",
+        "url": "https://www.foxnews.com/politics/supreme-court-prepares-hearing-trump-removal-colorado-ballot",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/01/7c6f2d86-trump-court.jpg",
+        "publishedAt": "2024-02-04T11:00:00Z",
+        "content": "The U.S. Supreme Court will soon debate whether former President Donald Trump should be removed from Colorado's primary ballot, the first of what could be several legal challenges by Trump to confron… [+8825 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Emily Stewart",
+        "title": "The New Jobs Report Showed Employees Are Entering a so-so Era - Business Insider",
+        "description": "The latest jobs report had lots of good news for the labor market. Workers are in a great spot, but not a perfect one.",
+        "url": "https://www.businessinsider.com/january-jobs-report-labor-market-good-economy-inflation-wages-2024-2",
+        "urlToImage": "https://i.insider.com/65bd4f3843bb77284ba33473?width=1200&format=jpeg",
+        "publishedAt": "2024-02-04T10:56:00Z",
+        "content": "For almost two years, many economists and observers have figured something has to give in the labor market. And then the labor market has turned around and said, \"Ha, actually, no.\"\r\nJanuary's jobs r… [+5254 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "KEVIN FREKING",
+        "title": "House Republicans announce bill that provides more military aid to Israel but leaves out Ukraine - Yahoo News",
+        "description": "House Republicans will move forward with a $17.6 billion package that provides military aid to Israel and replenish U.S. weapons, but leaves out more help...",
+        "url": "https://news.yahoo.com/house-republicans-announce-bill-provides-221842430.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/KwmHgMbEb5uE0Bcc8TsWdw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap.org/c7d785b9beace5a7129444968d957910",
+        "publishedAt": "2024-02-04T10:45:48Z",
+        "content": "WASHINGTON (AP) House Republicans will move forward with a $17.6 billion package that provides military aid to Israel and replenish U.S. weapons, but leaves out more help for Ukraine, underscoring th… [+2342 chars]"
+      },
+      {
+        "source": {
+          "id": "usa-today",
+          "name": "USA Today"
+        },
+        "author": "Elizabeth Weise",
+        "title": "Solar power in Kansas: How one couple's land lease became a fight - USA TODAY",
+        "description": "The reasons for local opposition vary. The motives behind them can be murky. But they often boil down to one idea: Renewables are fine, but we don’t want them here.",
+        "url": "https://www.usatoday.com/story/news/investigations/2024/02/04/solar-power-in-kansas/71920670007/",
+        "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/01/26/USAT/72368783007-xxx-20231212-j-mkansasrenewables-013.JPG?crop=3599,2025,x0,y187&width=3200&height=1801&format=pjpg&auto=webp",
+        "publishedAt": "2024-02-04T10:21:34Z",
+        "content": "GARDNER, Kansas Donna Knoche made her way up to the podium at the Johnson County Commission hearing on June 6, 2022, her new yellow shirt crisp and her voice steady. It wasnt something shed ever thou… [+22722 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": null,
+        "title": "Chile wildfires: 51 dead as wildfire tears through Valparaiso region - BBC.com",
+        "description": "Officials have warned the death toll is likely to rise as rescue teams reach the hardest hit areas.",
+        "url": "https://www.bbc.com/news/av/world-latin-america-68197170",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13532/production/_132545197_p0h8ys84.jpg",
+        "publishedAt": "2024-02-04T09:19:00Z",
+        "content": "Raging wildfires in Chile have killed at least 51 people the Valparaíso region, as the country faces its worst disaster since the 2010 earthquake.\r\nOfficials have warned the death toll is likely to r… [+195 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Daily Beast"
+        },
+        "author": "Nathan S. Webster",
+        "title": "How 'Capote vs. the Swans' Predicted Everything About 2024 Culture - The Daily Beast",
+        "description": "The month the show is set, Oct. 1975, was one of the most consequential pop culture moments, setting in motion everything from Real Housewives to Taylor Swift at the Super Bowl.",
+        "url": "https://www.thedailybeast.com/obsessed/how-capote-vs-the-swans-predicted-everything-about-2024-culture",
+        "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1706994112/240203-truman-capote-feud-hero_ibno08",
+        "publishedAt": "2024-02-04T08:49:35Z",
+        "content": "The 1975 social scene of Feud: Capote vs. The Swans reminds viewers that 2024s Real Housewives are amateurs at shade, gossip, and holding a grudge. The first two episodes, now streaming on FX and Hul… [+11410 chars]"
+      }
+    ]
+  }

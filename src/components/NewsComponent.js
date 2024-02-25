@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import NewsItem from './NewsItem';
 import InfiniteScroll from 'react-infinite-scroll-component';
 import Spinner from './Spinner';
+import LoadingBar from 'react-top-loading-bar'
 
 const NewsComponent = (props) => {
 
@@ -9,16 +10,20 @@ const NewsComponent = (props) => {
   const [page, setPage] = useState(1);
   const [totalResults, setTotalResults] = useState(0);
   const [loading ,setLoading]=useState(true);
+  const [progress, setProgress] = useState(0)
 
   const today = new Date().toISOString().split('T')[0];
   const fetchData = async () => {
     const res = await fetch(`https://newsapi.org/v2/top-headlines?country=in&apiKey=cffcc7fb2ea646c9aa6b13cf1050a85f&category=${props.category}&page=${page}&pageSize=${props.pageSize}&from=${today}`);
+    setProgress(30);
     const data = await res.json();
     console.log("API Response:", data);
     setArticles(data.articles);
+    setProgress(70);
     setTotalResults(data.totalResults);
     setPage(page+1)
     setLoading(false);
+    setProgress(100);
   };
 
   useEffect(() => {
@@ -37,7 +42,8 @@ const NewsComponent = (props) => {
   
 
   return (
-    <div className='container'>
+    <div className='container' style={{}}>
+      <LoadingBar color='#f11946' progress={progress} loaderSpeed={250} height={3}/>
       <h2 style={{textAlign:'center'}}>Top {props.category.split("")[0].toUpperCase()+props.category.slice(1)} News Headlines</h2>
     <InfiniteScroll
       dataLength={articles.length}

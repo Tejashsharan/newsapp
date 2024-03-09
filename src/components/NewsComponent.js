@@ -14,7 +14,7 @@ const NewsComponent = (props) => {
 
   const today = new Date().toISOString().split('T')[0];
   const fetchData = async () => {
-    const res = await fetch(`https://newsapi.org/v2/top-headlines?country=in&apiKey=cffcc7fb2ea646c9aa6b13cf1050a85f&category=${props.category}&page=${page}&pageSize=${props.pageSize}&from=${today}`);
+    const res = await fetch(`https://newsapi.org/v2/top-headlines?country=in&apiKey=fd4aab8cf9364947a159328dce8cbb38&category=${props.category}&page=${page}&pageSize=${props.pageSize}&from=${today}`);
     setProgress(30);
     const data = await res.json();
     console.log("API Response:", data);
